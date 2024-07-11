@@ -1,0 +1,11 @@
+﻿  LCH.cpp
+  LCS.cpp
+D:\4_SEM_LABS\MatProg\lab4yrytyefhfye\MP_Lab_4_Dynamic_Programming\MP_Lab_4_Dynamic_Programming\LCH.cpp(30,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\4_SEM_LABS\MatProg\lab4yrytyefhfye\MP_Lab_4_Dynamic_Programming\MP_Lab_4_Dynamic_Programming\LCH.cpp(30,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\4_SEM_LABS\MatProg\lab4yrytyefhfye\MP_Lab_4_Dynamic_Programming\MP_Lab_4_Dynamic_Programming\LCH.cpp(29,6): warning C4101: n: неиспользованная локальная переменная
+  Levenshtein.cpp
+  main.cpp
+  MultyMatrix.cpp
+  strGenerate.cpp
+  Создание кода...
+  MP_Lab_4_Dynamic_Programming.vcxproj -> D:\4_SEM_LABS\MatProg\lab4yrytyefhfye\MP_Lab_4_Dynamic_Programming\x64\Debug\MP_Lab_4_Dynamic_Programming.exe
